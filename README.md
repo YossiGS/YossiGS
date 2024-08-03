@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm Yossi 
+
+I'm a software engineer who is passionate about making new and challenging projects, creating technology to elevate people.
+
+## Find me around the web :
+- Some projects and UIs that I made <a href="">My Portfolio</a> 💼
+- You can reach me on <a href="https://www.linkedin.com/in/paz-daniel/">Linkedin</a> 📫
+
+
 
 <!--
 **YossiGS/YossiGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
