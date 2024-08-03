@@ -4,7 +4,7 @@ I'm a software engineer who is passionate about making new and challenging proje
 
 ## Find me around the web :
 - Some projects and UIs that I made <a href="">My Portfolio</a> 💼
-- You can reach me on <a href="https://www.linkedin.com/in/paz-daniel/">Linkedin</a> 📫
+- You can reach me on <a href="">Linkedin</a> 📫
 
 
 
